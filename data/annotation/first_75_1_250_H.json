@@ -1,0 +1,452 @@
+[
+  {
+    "id": "27205",
+    "title": "Inception",
+    "synopsis": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "157336",
+    "title": "Interstellar",
+    "synopsis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "155",
+    "title": "The Dark Knight",
+    "synopsis": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "19995",
+    "title": "Avatar",
+    "synopsis": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "24428",
+    "title": "The Avengers",
+    "synopsis": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "293660",
+    "title": "Deadpool",
+    "synopsis": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "299536",
+    "title": "Avengers: Infinity War",
+    "synopsis": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "550",
+    "title": "Fight Club",
+    "synopsis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "118340",
+    "title": "Guardians of the Galaxy",
+    "synopsis": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "680",
+    "title": "Pulp Fiction",
+    "synopsis": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "manual_genre": "Comedy"
+  },
+  {
+    "id": "13",
+    "title": "Forrest Gump",
+    "synopsis": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "671",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "synopsis": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "1726",
+    "title": "Iron Man",
+    "synopsis": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "68718",
+    "title": "Django Unchained",
+    "synopsis": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "278",
+    "title": "The Shawshank Redemption",
+    "synopsis": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "299534",
+    "title": "Avengers: Endgame",
+    "synopsis": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "603",
+    "title": "The Matrix",
+    "synopsis": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "597",
+    "title": "Titanic",
+    "synopsis": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "475557",
+    "title": "Joker",
+    "synopsis": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "120",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "synopsis": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "122",
+    "title": "The Lord of the Rings: The Return of the King",
+    "synopsis": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "11324",
+    "title": "Shutter Island",
+    "synopsis": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "106646",
+    "title": "The Wolf of Wall Street",
+    "synopsis": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "99861",
+    "title": "Avengers: Age of Ultron",
+    "synopsis": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "271110",
+    "title": "Captain America: Civil War",
+    "synopsis": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "49026",
+    "title": "The Dark Knight Rises",
+    "synopsis": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "68721",
+    "title": "Iron Man 3",
+    "synopsis": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "284054",
+    "title": "Black Panther",
+    "synopsis": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "284052",
+    "title": "Doctor Strange",
+    "synopsis": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "76341",
+    "title": "Mad Max: Fury Road",
+    "synopsis": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "16869",
+    "title": "Inglourious Basterds",
+    "synopsis": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "70160",
+    "title": "The Hunger Games",
+    "synopsis": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which “Tributes” must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she’s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "315635",
+    "title": "Spider-Man: Homecoming",
+    "synopsis": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "672",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "synopsis": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "283995",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "synopsis": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "121",
+    "title": "The Lord of the Rings: The Two Towers",
+    "synopsis": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "1771",
+    "title": "Captain America: The First Avenger",
+    "synopsis": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "297761",
+    "title": "Suicide Squad",
+    "synopsis": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "673",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "synopsis": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "10195",
+    "title": "Thor",
+    "synopsis": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "10138",
+    "title": "Iron Man 2",
+    "synopsis": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "272",
+    "title": "Batman Begins",
+    "synopsis": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "284053",
+    "title": "Thor: Ragnarok",
+    "synopsis": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "150540",
+    "title": "Inside Out",
+    "synopsis": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "135397",
+    "title": "Jurassic World",
+    "synopsis": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "807",
+    "title": "Se7en",
+    "synopsis": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "674",
+    "title": "Harry Potter and the Goblet of Fire",
+    "synopsis": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "22",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "synopsis": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "12445",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "synopsis": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "11",
+    "title": "Star Wars",
+    "synopsis": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "297762",
+    "title": "Wonder Woman",
+    "synopsis": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "14160",
+    "title": "Up",
+    "synopsis": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "102899",
+    "title": "Ant-Man",
+    "synopsis": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "238",
+    "title": "The Godfather",
+    "synopsis": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "286217",
+    "title": "The Martian",
+    "synopsis": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "105",
+    "title": "Back to the Future",
+    "synopsis": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "140607",
+    "title": "Star Wars: The Force Awakens",
+    "synopsis": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "634649",
+    "title": "Spider-Man: No Way Home",
+    "synopsis": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "675",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "synopsis": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "767",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "synopsis": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "263115",
+    "title": "Logan",
+    "synopsis": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "12",
+    "title": "Finding Nemo",
+    "synopsis": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "346364",
+    "title": "It",
+    "synopsis": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+    "manual_genre": "Horror"
+  },
+  {
+    "id": "245891",
+    "title": "John Wick",
+    "synopsis": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "259316",
+    "title": "Fantastic Beasts and Where to Find Them",
+    "synopsis": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "12444",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "synopsis": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "354912",
+    "title": "Coco",
+    "synopsis": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "100402",
+    "title": "Captain America: The Winter Soldier",
+    "synopsis": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+    "manual_genre": "Action"
+  },
+  {
+    "id": "557",
+    "title": "Spider-Man",
+    "synopsis": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "10681",
+    "title": "WALL·E",
+    "synopsis": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL•E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "id": "210577",
+    "title": "Gone Girl",
+    "synopsis": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "id": "49051",
+    "title": "The Hobbit: An Unexpected Journey",
+    "synopsis": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "585",
+    "title": "Monsters, Inc.",
+    "synopsis": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "id": "862",
+    "title": "Toy Story",
+    "synopsis": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "manual_genre": "Drama"
+  },
+  {
+    "id": "281957",
+    "title": "The Revenant",
+    "synopsis": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "manual_genre": "Action"
+  }
+]
