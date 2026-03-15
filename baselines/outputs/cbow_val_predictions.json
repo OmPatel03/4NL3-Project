@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Lilo & Stitch",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Mulholland Drive",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Contagion",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Madagascar 3: Europe's Most Wanted",
+    "manual_genre": "Comedy"
+  },
+  {
+    "title": "Fantastic Four",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Bumblebee",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "The Book of Eli",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Accountant",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Mrs. Doubtfire",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Godfather Part III",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Space Jam",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Die Hard: With a Vengeance",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Babadook",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Speed",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Red Sparrow",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Tropic Thunder",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Bolt",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "The Lobster",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Grown Ups",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Flight",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Notting Hill",
+    "manual_genre": "Romance"
+  },
+  {
+    "title": "Eyes Wide Shut",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Magnificent Seven",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Karate Kid",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Enola Holmes",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Lone Ranger",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Extraction",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Mr. Nobody",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Meet the Parents",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Danish Girl",
+    "manual_genre": "Romance"
+  },
+  {
+    "title": "No Time to Die",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Night at the Museum: Secret of the Tomb",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Godzilla: King of the Monsters",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The 5th Wave",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Ghost Rider",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Central Intelligence",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Black Adam",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Blade",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Cloudy with a Chance of Meatballs",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Pinocchio",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Ender's Game",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Devil's Advocate",
+    "manual_genre": "Comedy"
+  },
+  {
+    "title": "Mortal Kombat",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Girl on the Train",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Van Helsing",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "From Dusk Till Dawn",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "I, Tonya",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Dictator",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Manchester by the Sea",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Hulk",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Enemy",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Game Night",
+    "manual_genre": "Comedy"
+  },
+  {
+    "title": "The Interview",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Hitch",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Live Free or Die Hard",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Jason Bourne",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Taken 3",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Training Day",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Hotel Transylvania 2",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "The Bourne Legacy",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Jumper",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "King Arthur: Legend of the Sword",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Kung Fu Panda 3",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Stand by Me",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Pocahontas",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Paul",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Inside Man",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Bright",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Invisible Man",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Die Hard 2",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Just Go with It",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Cars 3",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Annabelle: Creation",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Five Feet Apart",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Goonies",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Vertigo",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Total Recall",
+    "manual_genre": "Comedy"
+  },
+  {
+    "title": "Casino",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Moon",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Bambi",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "John Carter",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Jurassic World Dominion",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "G.I. Joe: Retaliation",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Black Hawk Down",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Jungle Cruise",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Zombieland: Double Tap",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Hurt Locker",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Untouchables",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Southpaw",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "School of Rock",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Liar Liar",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Signs",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Good Dinosaur",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Red Notice",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Battleship",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "RoboCop",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Collateral Beauty",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Italian Job",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Wizard of Oz",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Salt",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Total Recall",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Iron Giant",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Ghost",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Transcendence",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Tourist",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Enchanted",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Pitch Perfect 2",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "The Machinist",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Final Destination",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Gentlemen",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Collateral",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Barbie",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Alien³",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Uncharted",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The Princess and the Frog",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "After We Collided",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Apocalypto",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Due Date",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Citizen Kane",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Adventures of Tintin",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "The Matrix Resurrections",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Sinister",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "Mars Attacks!",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Creed II",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Apollo 13",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Brother Bear",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Peter Pan",
+    "manual_genre": "Action"
+  },
+  {
+    "title": "Non-Stop",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Halloween",
+    "manual_genre": "Fantasy"
+  },
+  {
+    "title": "Gifted",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "The Island",
+    "manual_genre": "Thriller / Crime"
+  },
+  {
+    "title": "The World's End",
+    "manual_genre": "Horror"
+  },
+  {
+    "title": "Les Misérables",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Anastasia",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "manual_genre": "Drama"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "manual_genre": "Science Fiction"
+  },
+  {
+    "title": "American Gangster",
+    "manual_genre": "Drama"
+  }
+]
