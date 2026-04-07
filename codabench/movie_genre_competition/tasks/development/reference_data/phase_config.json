@@ -1,0 +1,5 @@
+{
+  "phase": "development",
+  "leaderboard_macro_f1_key": "dev_public_macro_f1",
+  "leaderboard_accuracy_key": "dev_public_accuracy"
+}

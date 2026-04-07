@@ -1,0 +1,7 @@
+model_name,model_group,macro_f1,accuracy
+Zero-shot NLI (DistilBART MNLI),required_model,0.48701098642959106,0.5066666666666667
+RidgeClassifier + Word TF-IDF,required_model,0.3924086451716853,0.44666666666666666
+ComplementNB + Count Bigrams,required_model,0.371243264224172,0.44666666666666666
+LinearSVC + Word/Char TF-IDF,required_model,0.3696260425073984,0.41333333333333333
+Logistic Regression Baseline,baseline,0.2893771627027561,0.4
+Majority Baseline,baseline,0.04619565217391304,0.22666666666666666

@@ -1,0 +1,5 @@
+{
+  "phase": "final",
+  "leaderboard_macro_f1_key": "final_private_macro_f1",
+  "leaderboard_accuracy_key": "final_private_accuracy"
+}
